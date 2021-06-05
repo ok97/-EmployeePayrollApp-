@@ -130,7 +130,10 @@ select
     background-color: transparent; 
 }
 
-/* UC6:- Ability to add Notes as well as cancel, reset and submit button so as to do some action on form entry */
+/* UC6:- Ability to add Notes as well as cancel, reset and submit button so as to do some action on form entry.
+   UC7:- Using the UX design set the button style appropriately.
+*/
+
 .button-content 
 {
     display: flex;
